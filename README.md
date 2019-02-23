@@ -21,16 +21,6 @@
 		</address>
 		HTML5 hello My Name is <del> jaydeeo.</del> <ins>jaydeep</ins> rubik's cube<br>
 		HTML5 <s>hello</s>My Name is jaydeep
-</body>
-</html>
-
-
-
-
-
-
-<html>
-<head>
 <title>Page Title</title>
 </head>
 <body>
