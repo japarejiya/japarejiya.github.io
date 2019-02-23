@@ -12,7 +12,7 @@
 	<h1 align="center">Rubik's Cube<p>Self Learning and exploration Activity</h><p align="right">EncubeLabs , www.encube.co </p>
 		<p align="right">jaydeepnumber:339903847384.</p><hr>
 	
-		<h1 align="center"><font color="Violet">Violet</font><font color="Indigo">Indigo</font><font color="Blue">blue</font>   <font color="Green">Green</font><font color="Yellow">Yellow</font><font color="Orange">Orange</font><font color="Red">Red</font></h1>  
+	<center></center><font color="Violet">Violet</font><font color="Indigo">Indigo</font><font color="Blue">blue</font>   <font color="Green">Green</font><font color="Yellow">Yellow</font><font color="Orange">Orange</font><font color="Red">Red</font></h1>  
 		<p><abbr title="hypertext markup language">HTML</abbr>front left right up down Each turn is 1/4</p>
 		<address>
 			<br>Name:parejiya jaydeep
