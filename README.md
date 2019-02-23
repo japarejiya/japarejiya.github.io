@@ -13,7 +13,6 @@
 		<p align="right">jaydeepnumber:339903847384.</p><hr>
 	
 		<h1 align="center"><font color="Violet">Violet</font><font color="Indigo">Indigo</font><font color="Blue">blue</font>   <font color="Green">Green</font><font color="Yellow">Yellow</font><font color="Orange">Orange</font><font color="Red">Red</font></h1>  
-		<q>the square in the middle of one side indicates that side colour.eg.green square=green side</q>front left right up down Each turn is 1/4
 		<p><abbr title="hypertext markup language">HTML</abbr>front left right up down Each turn is 1/4</p>
 		<address>
 			<br>Name:parejiya jaydeep
