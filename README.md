@@ -3,7 +3,12 @@
 <head>
 	<title>JAYDEEP parejiya</title>
 </head>
+	
 <body>
+	<h1>Name:Jaydeep parejiya</h1>
+	<h1>Birthday:21/08/2002</h1>
+	<h1>Email:japarejiya@gmail.com</h1>
+	
 
 	<h1>headingh1</h1><h2>headingh2</h2><h3>headingh3</h3><h4>headingh4</h4>
 	<p>hello, my name is a jaydeep. </p><p>nksuiu.</p><p>abcde.</p>
